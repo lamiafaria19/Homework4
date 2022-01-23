@@ -1,0 +1,71 @@
+.header{
+	min-height:100px;
+	background-color:#e66767;
+}
+.container{
+	overflow:hidden;
+}
+.contact{
+	min-height:200px;
+	background-color:#f3a683;
+	width:60%;
+	float:left;
+}
+.blog{
+	min-height:200px;
+	background-color:#f19066;
+	width:40%;
+	float:right;
+}
+.box1{
+	min-height:400px;
+	background-color:#786fa6;
+	width:33.33%;
+	float:left;
+}
+.box2{
+	min-height:400px;
+	background-color:#574b90;
+	width:33.33%;
+	float:left;
+}
+.box3{
+	min-height:400px;
+	background-color:#596275;
+	width:33.33%;
+	float:left;
+}
+.colum1{
+	min-height:500px;
+	background-color:#C4E538;
+	width:20%;
+	float:left;
+}
+.colum2{
+	min-height:500px;
+	background-color:#A3CB38;
+	width:20%;
+	float:left;
+}
+.colum3{
+	min-height:500px;
+	background-color:#009432;
+	width:20%;
+	float:left;
+}
+.colum4{
+	min-height:500px;
+	background-color:#006266;
+	width:20%;
+	float:left;
+}
+.colum5{
+	min-height:500px;
+	background-color:#12CBC4;
+	width:20%;
+	float:left;
+}
+.footer{
+	min-height:100px;
+	background-color:#303952;
+}
